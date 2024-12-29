@@ -1,0 +1,39 @@
+2024-12-13 19:30:23.631 [info] Getting Manifest... ms-python.python
+2024-12-13 19:30:24.086 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/retro/.vscode/extensions/extensions.json","path":"/home/retro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2024-12-13 19:30:25.350 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-13 19:30:25.505 [info] Getting Manifest... ms-python.debugpy
+2024-12-13 19:30:25.650 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/retro/.vscode/extensions/extensions.json","path":"/home/retro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-12-13 19:30:25.651 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/retro/.vscode/extensions/extensions.json","path":"/home/retro/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-12-13 19:31:17.765 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 8ms.
+2024-12-13 19:31:18.040 [info] Extracted extension to file:///home/retro/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2024-12-13 19:31:18.055 [info] Renamed to /home/retro/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2024-12-13 19:31:18.141 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/retro/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/retro/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-13 19:31:26.076 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 13ms.
+2024-12-13 19:31:26.187 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 5ms.
+2024-12-13 19:31:27.220 [info] Extracted extension to file:///home/retro/.vscode/extensions/ms-python.python-2024.22.0-linux-x64: ms-python.python
+2024-12-13 19:31:27.283 [info] Renamed to /home/retro/.vscode/extensions/ms-python.python-2024.22.0-linux-x64
+2024-12-13 19:31:27.366 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/retro/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/retro/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-13 19:31:28.456 [info] Extracted extension to file:///home/retro/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-13 19:31:28.615 [info] Renamed to /home/retro/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2024-12-13 19:31:28.629 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/retro/.vscode/extensions/extensions.json
+2024-12-13 19:31:28.629 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/retro/.vscode/extensions/extensions.json
+2024-12-13 19:31:28.629 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/retro/.vscode/extensions/extensions.json
+2024-12-13 19:31:28.698 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/retro/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/retro/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

@@ -1,0 +1,8 @@
+2024-12-20 18:51:34.403 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-20 18:51:34.403 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-20 18:51:34.403 [info] Experiment 'pythonTestAdapter' is active
+2024-12-20 18:51:34.403 [info] Native locator: Refresh started
+2024-12-20 18:51:35.402 [info] Python interpreter path: /bin/python
+2024-12-20 18:51:35.456 [info] Native locator: Refresh finished in 1091 ms
+2024-12-20 18:51:36.489 [info] Starting Pylance language server.
+2024-12-20 18:51:39.372 [info] CreateEnv Trigger - Workspace not found for /home/retro/Downloads/picoctf/decrypt.py

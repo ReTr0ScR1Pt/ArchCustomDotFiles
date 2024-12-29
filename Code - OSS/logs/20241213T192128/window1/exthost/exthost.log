@@ -1,0 +1,16 @@
+2024-12-13 19:21:29.876 [info] Extension host with pid 93925 started
+2024-12-13 19:21:29.876 [info] Skipping acquiring lock for /home/retro/.config/Code - OSS/User/workspaceStorage/86ee5f6d9170e81cdd717c031f3e43af.
+2024-12-13 19:21:29.978 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-13 19:21:30.071 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-13 19:21:30.073 [info] ExtensionService#_doActivateExtension Janne252.fontawesome-autocomplete, startup: true, activationEvent: '*'
+2024-12-13 19:21:30.259 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-13 19:21:30.343 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-13 19:21:30.438 [info] Eager extensions activated
+2024-12-13 19:21:30.489 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 19:21:30.493 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 19:21:30.521 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 19:21:30.627 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 19:21:30.939 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-13 19:21:30.954 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-13 19:21:30.970 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-12-13 19:21:31.041 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

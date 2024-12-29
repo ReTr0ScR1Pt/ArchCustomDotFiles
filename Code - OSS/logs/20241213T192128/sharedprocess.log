@@ -1,0 +1,5 @@
+2024-12-13 19:21:34.611 [info] Getting Manifest... ms-python.debugpy
+2024-12-13 19:21:34.613 [info] Getting Manifest... ms-python.python
+2024-12-13 19:21:37.291 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/retro/.vscode-oss/extensions/extensions.json","path":"/home/retro/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-13 19:21:37.593 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.95.1","date":"2024-11-01T17:20:55.708Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/retro/.vscode-oss/extensions/extensions.json","path":"/home/retro/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-13 19:21:37.630 [info] Getting Manifest... ms-python.python

@@ -1,0 +1,11 @@
+2024-12-20 18:50:12.398 [info] update#setState idle
+2024-12-20 18:50:33.929 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-12-20 18:50:36.565 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-12-20 18:50:42.372 [info] update#setState checking for updates
+2024-12-20 18:50:42.378 [info] update#setState available for download
+2024-12-20 18:50:48.059 [error] [sudo-prompt] received stderr: Error executing command as another user: No authentication agent found.
+
+2024-12-20 18:51:10.804 [info] Extension host with pid 370307 exited with code: 0, signal: unknown.
+2024-12-20 18:51:10.835 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 370309]: crashed with code 15 and reason 'killed'

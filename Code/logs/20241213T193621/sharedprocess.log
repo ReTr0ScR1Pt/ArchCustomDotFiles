@@ -1,0 +1,2 @@
+2024-12-14 20:44:52.619 [error] [network] #194: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2024-12-14 21:06:05.974 [error] [network] #198: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED

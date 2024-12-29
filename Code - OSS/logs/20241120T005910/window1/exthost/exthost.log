@@ -1,0 +1,12 @@
+2024-11-20 00:59:12.152 [info] Extension host with pid 34793 started
+2024-11-20 00:59:12.152 [info] Skipping acquiring lock for /home/retro/.config/Code - OSS/User/workspaceStorage/86ee5f6d9170e81cdd717c031f3e43af.
+2024-11-20 00:59:12.280 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-20 00:59:12.302 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-11-20 00:59:12.703 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-20 00:59:12.709 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-20 00:59:12.801 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-20 00:59:12.858 [info] Eager extensions activated
+2024-11-20 00:59:12.883 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-20 00:59:12.885 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-20 00:59:12.904 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-20 00:59:12.997 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'

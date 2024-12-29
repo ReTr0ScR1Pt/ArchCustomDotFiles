@@ -1,0 +1,9 @@
+2024-12-13 19:31:29.675 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 19:31:29.675 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 19:31:29.675 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 19:31:29.685 [info] Native locator: Refresh started
+2024-12-13 19:31:29.736 [info] Native locator: Refresh started
+2024-12-13 19:31:30.194 [info] Native locator: Refresh finished in 505 ms
+2024-12-13 19:31:30.221 [info] Python interpreter path: /bin/python
+2024-12-13 19:31:30.246 [info] Shell integration status changed, can confirm it's working.
+2024-12-13 19:31:31.773 [info] Starting Pylance language server.

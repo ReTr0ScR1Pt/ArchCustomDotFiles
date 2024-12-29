@@ -14,6 +14,7 @@ alias img=imv
 alias rm=trash # Depends on trash-cli
 alias pq="proxychains -q"
 alias open="xdg-open"
+alias ll="ls -al"
 
 # Python Venv
 alias vc="python3 -m venv .venv"

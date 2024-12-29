@@ -1,0 +1,16 @@
+2024-12-20 18:50:13.869 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-20 18:50:13.869 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-20 18:50:13.869 [info] Experiment 'pythonTestAdapter' is active
+2024-12-20 18:50:13.869 [info] Native locator: Refresh started
+2024-12-20 18:50:13.869 [error] Python discovery not supported in untrusted workspace
+2024-12-20 18:50:13.869 [info] Native locator: Refresh finished in 9 ms
+2024-12-20 18:50:13.911 [error] Python discovery not supported in untrusted workspace
+2024-12-20 18:50:13.911 [error] Invalid environment [native]: {}
+2024-12-20 18:50:15.546 [info] Starting Pylance language server.
+2024-12-20 18:50:33.852 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-20 18:50:33.852 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-20 18:50:33.852 [info] Experiment 'pythonTestAdapter' is active
+2024-12-20 18:50:33.852 [info] Native locator: Refresh started
+2024-12-20 18:50:34.202 [info] Native locator: Refresh finished in 389 ms
+2024-12-20 18:50:35.174 [info] Starting Pylance language server.
+2024-12-20 18:50:58.486 [info] CreateEnv Trigger - Workspace not found for /home/retro/Downloads/picoctf/decrypt.py
