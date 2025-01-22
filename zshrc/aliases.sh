@@ -15,6 +15,7 @@ alias rm=trash # Depends on trash-cli
 alias pq="proxychains -q"
 alias open="xdg-open"
 alias ll="ls -al"
+alias burp="/home/retro/BurpSuiteCommunity/BurpSuiteCommunity"
 
 # Python Venv
 alias vc="python3 -m venv .venv"
